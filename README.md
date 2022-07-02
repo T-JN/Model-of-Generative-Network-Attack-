@@ -1,4 +1,4 @@
-# -Model-of-Generative-Network-Attack-
+# Model-of-Generative-Network-Attack-
 CSIT-2021 International Conference,Yerevan.
 https://csit.am/2021/schedule.php
 Session 5 “Information Security”
